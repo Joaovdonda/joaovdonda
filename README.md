@@ -1,4 +1,4 @@
-# Olá, eu sou o João Vitor! 👋
+# João Vitor! 👋
 
 Sou estudante de **Ciência de Dados e Inteligência Artificial no Ibmec**, no Rio de Janeiro. Tenho foco na transformação de dados complexos em inteligência de negócios e soluções analíticas reais.
 
