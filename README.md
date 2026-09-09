@@ -101,10 +101,6 @@ perfil = {
 
 ## Atividade
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=joaovdonda&theme=github-dark&background=0d1117&border=30363d&ring=0891B2&fire=0891B2&currStreakLabel=0891B2&sideLabels=8b949e&dates=6e7681&hide_border=true" width="100%" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaovdonda/joaovdonda/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joaovdonda/joaovdonda/output/github-snake.svg" />
