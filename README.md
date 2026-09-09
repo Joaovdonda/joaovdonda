@@ -1,22 +1,19 @@
-<div align="center">
+<h1 align="center">João Vitor Rodrigues 👋</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6AB&height=180&section=header&text=Jo%C3%A3o%20Vitor%20Rodrigues&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Ci%C3%AAncia%20de%20Dados%20%26%20Intelig%C3%AAncia%20Artificial&descAlignY=53&descSize=18" width="100%" alt="Banner" />
-
-<a href="https://www.linkedin.com/in/joao-vitor-rodrigues-donda/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00C6AB&center=true&vCenter=true&width=650&lines=Dados+complexos+%E2%86%92+intelig%C3%AAncia+de+neg%C3%B3cios;Python+%7C+SQL+%7C+Java+%7C+Pandas;Estudante+de+Ci%C3%AAncia+de+Dados+e+IA+no+Ibmec" alt="Typing SVG" />
-</a>
-
-<p>
-  <img src="https://img.shields.io/badge/Rio%20de%20Janeiro-Brasil-0077B5?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização" />
-  <img src="https://img.shields.io/badge/Ibmec-Ci%C3%AAncia%20de%20Dados%20%26%20IA-00C6AB?style=flat-square&logo=googlescholar&logoColor=white" alt="Universidade" />
-  <img src="https://komarev.com/ghpvc/?username=joaovdonda&label=Visitas&color=0077B5&style=flat-square" alt="Contador de visitas" />
+<p align="center">
+  <b>Ciência de Dados e Inteligência Artificial</b><br>
+  <sub>📍 Rio de Janeiro, Brasil &nbsp;·&nbsp; 🎓 Ibmec</sub>
 </p>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/joao-vitor-rodrigues-donda/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:dondajoao@gmail.com">dondajoao@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://github.com/joaovdonda?tab=repositories">Repositórios</a>
+</p>
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
 Sou estudante de **Ciência de Dados e Inteligência Artificial no Ibmec**, no Rio de Janeiro.
 Tenho foco na transformação de **dados complexos** em **inteligência de negócios** e **soluções analíticas reais**.
@@ -24,11 +21,11 @@ Tenho foco na transformação de **dados complexos** em **inteligência de negó
 ```python
 class JoaoVitor:
     def __init__(self):
-        self.curso      = "Ciência de Dados e Inteligência Artificial · Ibmec"
-        self.local      = "Rio de Janeiro, Brasil"
-        self.stack      = ["Python", "SQL", "Java", "Pandas"]
-        self.ia         = ["Claude", "Gemini"]
-        self.foco       = "Transformar dados complexos em inteligência de negócios"
+        self.curso  = "Ciência de Dados e Inteligência Artificial · Ibmec"
+        self.local  = "Rio de Janeiro, Brasil"
+        self.foco   = "Transformar dados complexos em inteligência de negócios"
+        self.stack  = ["Python", "SQL", "Java", "Power BI"]
+        self.ia     = ["Claude", "Gemini"]
 
     def objetivo(self):
         return "Construir soluções analíticas que geram decisão, não só gráfico."
@@ -38,54 +35,96 @@ class JoaoVitor:
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-
+<details open>
+<summary><b>💻 Linguagens</b></summary>
+<br>
 <table>
   <tr>
-    <td align="center" width="110">
-      <img alt="Python" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img alt="SQL" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg"><br>
-      <sub><b>SQL</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img alt="Java" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><br>
-      <sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img alt="Pandas" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"><br>
-      <sub><b>Pandas</b></sub>
-    </td>
+    <td align="center" width="95"><img height="40" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br><sub><b>Python</b></sub></td>
+    <td align="center" width="95"><img height="40" alt="SQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg"><br><sub><b>SQL</b></sub></td>
+    <td align="center" width="95"><img height="40" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><br><sub><b>Java</b></sub></td>
+    <td align="center" width="95"><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><br><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="95"><img height="40" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br><sub><b>HTML5</b></sub></td>
+    <td align="center" width="95"><img height="40" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br><sub><b>CSS3</b></sub></td>
+    <td align="center" width="95"><img height="40" alt="Lua" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"><br><sub><b>Lua</b></sub></td>
   </tr>
 </table>
+</details>
 
-</div>
+<details open>
+<summary><b>📊 Análise de Dados e BI</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center" width="95"><sub>📈</sub><br><sub><b>Power BI</b></sub></td>
+    <td align="center" width="95"><sub>📗</sub><br><sub><b>Excel</b></sub></td>
+    <td align="center" width="95"><sub>📘</sub><br><sub><b>Word</b></sub></td>
+    <td align="center" width="95"><sub>📙</sub><br><sub><b>PowerPoint</b></sub></td>
+    <td align="center" width="95"><img height="40" alt="NumPy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"><br><sub><b>NumPy</b></sub></td>
+    <td align="center" width="95"><img height="40" alt="Matplotlib" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg"><br><sub><b>Matplotlib</b></sub></td>
+    <td align="center" width="95"><img height="40" alt="scikit-learn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"><br><sub><b>scikit-learn</b></sub></td>
+    <td align="center" width="95"><img height="40" alt="Jupyter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"><br><sub><b>Jupyter</b></sub></td>
+  </tr>
+</table>
+</details>
 
-<div align="center">
+<details open>
+<summary><b>⚙️ Back-end e Banco de Dados</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center" width="95"><img height="40" alt="FastAPI" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"><br><sub><b>FastAPI</b></sub></td>
+    <td align="center" width="95"><img height="40" alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"><br><sub><b>Django</b></sub></td>
+    <td align="center" width="95"><img height="40" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"><br><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="95"><img height="40" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><br><sub><b>MySQL</b></sub></td>
+    <td align="center" width="95"><img height="40" alt="Supabase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg"><br><sub><b>Supabase</b></sub></td>
+    <td align="center" width="95"><img height="40" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"><br><sub><b>Docker</b></sub></td>
+  </tr>
+</table>
+</details>
 
-<sub><b>🤖 IA no dia a dia</b></sub>
-
-<p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-</p>
-
-</div>
+<details open>
+<summary><b>🎨 Front-end e Ferramentas</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center" width="95"><img height="40" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><br><sub><b>React</b></sub></td>
+    <td align="center" width="95"><img height="40" alt="Vite" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg"><br><sub><b>Vite</b></sub></td>
+    <td align="center" width="95"><img height="40" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><br><sub><b>Git</b></sub></td>
+    <td align="center" width="95"><img height="40" alt="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"><br><sub><b>VS Code</b></sub></td>
+    <td align="center" width="95"><sub>🤖</sub><br><sub><b>Claude</b></sub></td>
+    <td align="center" width="95"><sub>✨</sub><br><sub><b>Gemini</b></sub></td>
+  </tr>
+</table>
+</details>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
 <details open>
-<summary><b>⚽ Bagre.ai — Motor de scouting híbrido para futebol</b></summary>
+<summary><b>⚽ Bagre.ai — motor de scouting híbrido para futebol</b></summary>
 
 <br>
 
 Calcula o **ROI** e a **eficiência financeira de atletas** através de **Web Scraping** e integração com **múltiplas APIs**.
 
-`Python` · `Web Scraping` · `APIs` · `Análise de Dados`
+`Python` · `FastAPI` · `Web Scraping` · `scikit-learn` · `Pandas`
+
+[→ ArthurMaurity/bagreAi_analisededados](https://github.com/ArthurMaurity/bagreAi_analisededados)
+
+</details>
+
+<details>
+<summary><b>🔎 MrScout.IA — busca e recomendação de jogadores</b></summary>
+
+<br>
+
+Motor de busca por **similaridade** para montagem de elenco, focado em ligas e jogadores de menor visibilidade, onde modelos genéricos costumam alucinar por falta de dado estruturado.
+
+`Python` · `FastAPI` · `PostgreSQL + pgvector` · `Docker` · `Lua`
+
+[→ Joaovdonda/mrscout-ia](https://github.com/Joaovdonda/mrscout-ia)
 
 </details>
 
@@ -107,41 +146,24 @@ Fluxo de **atendimento automatizado** integrado ao **Supabase**.
 
 **Back-end** desenvolvido para gerenciar as **monitorias internas da universidade**.
 
-`Back-end` · `Banco de Dados` · `API`
+`Django` · `Django REST Framework` · `Banco de Dados`
 
 </details>
 
 ---
 
-## 📊 GitHub em números
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=joaovdonda&show_icons=true&hide_border=true&title_color=00C6AB&icon_color=0077B5&text_color=8b949e&bg_color=00000000&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovdonda&layout=compact&hide_border=true&title_color=00C6AB&text_color=8b949e&bg_color=00000000&locale=pt-br" alt="Linguagens mais usadas" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaovdonda&hide_border=true&area=true&color=8b949e&line=00C6AB&point=0077B5&bg_color=00000000" width="95%" alt="Gráfico de atividade" />
-
-</div>
-
----
-
 ## 📬 Como me encontrar
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/joao-vitor-rodrigues-donda/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:dondajoao@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/joaovdonda">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vitor-rodrigues-donda/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dondajoao@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaovdonda)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6AB,100:0077B5&height=110&section=footer" width="100%" alt="Rodapé" />
-
-<sub>⭐ Obrigado pela visita! Fique à vontade para explorar os repositórios.</sub>
-
-</div>
+<p align="center"><sub>⭐ Obrigado pela visita! Fique à vontade para explorar os repositórios.</sub></p>
