@@ -1,181 +1,114 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jo%C3%A3o%20Vitor%20Rodrigues&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Ci%C3%AAncia%20de%20Dados%20%E2%80%A2%20Intelig%C3%AAncia%20Artificial%20%E2%80%A2%20Business%20Intelligence&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12&height=170&section=header&text=Jo%C3%A3o%20Vitor%20Rodrigues&fontSize=40&fontColor=fff&fontAlignY=33&desc=Ci%C3%AAncia%20de%20Dados%20e%20Intelig%C3%AAncia%20Artificial%20%C2%B7%20Ibmec%20%C2%B7%20Rio%20de%20Janeiro&descAlignY=54&descSize=15" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00C6AB&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Dados+complexos+em+intelig%C3%AAncia+de+neg%C3%B3cios+%F0%9F%93%8A;Da+coleta+ao+dashboard+%E2%9A%A1;Python+%2B+SQL+%2B+IA+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0891B2&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=45&lines=Transformo+dados+complexos+em+decis%C3%A3o+de+neg%C3%B3cio;Coleta+%E2%86%92+modelagem+%E2%86%92+an%C3%A1lise+%E2%86%92+dashboard" alt="Typing SVG" />
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vitor-rodrigues-donda/)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dondajoao@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23161b22.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaovdonda)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=joaovdonda&color=00C6AB&style=for-the-badge&label=VISITAS+AO+PERFIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vitor-rodrigues-donda/)
+[![Email](https://img.shields.io/badge/dondajoao@gmail.com-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:dondajoao@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=joaovdonda&color=0891B2&style=flat-square&label=visitas)
 
 </div>
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre mim
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+## Sobre mim
 
 Sou estudante de **Ciência de Dados e Inteligência Artificial no Ibmec**, no Rio de Janeiro.
-Tenho foco na transformação de **dados complexos** em **inteligência de negócios** e **soluções analíticas reais**.
+Tenho foco na transformação de **dados complexos** em **inteligência de negócios** e **soluções analíticas reais** — o que costuma significar sujar a mão na coleta, não só no gráfico do fim.
 
 ```python
-joao = {
-    "curso":     "Ciência de Dados e IA · Ibmec",
-    "local":     "Rio de Janeiro, Brasil",
-    "foco":      ["Análise de Dados", "BI", "IA", "Back-end"],
-    "stack":     ["Python", "SQL", "Java", "Power BI"],
-    "ia":        ["Claude", "Gemini"],
-    "atual":     "Construindo o MrScout.IA ⚽",
-    "objetivo":  "Dados complexos → decisão de negócio",
-    "contato":   "dondajoao@gmail.com",
+perfil = {
+    "curso":    "Ciência de Dados e IA · Ibmec",
+    "local":    "Rio de Janeiro, Brasil",
+    "faz":      ["análise de dados", "BI", "web scraping", "back-end de dados"],
+    "stack":    ["Python", "SQL", "Power BI", "Java"],
+    "estudando": "motores de busca por similaridade e embeddings",
+    "contato":  "dondajoao@gmail.com",
 }
 ```
 
-<br clear="right"/>
+## Projetos
 
----
+| Projeto | O que resolve | Stack | Status |
+|---|---|---|---|
+| [**Bagre.ai**](https://github.com/ArthurMaurity/bagreAi_analisededados) | Scouting de futebol que calcula **ROI e eficiência financeira de atletas**, cruzando Web Scraping com múltiplas APIs | Python · FastAPI · scikit-learn · BeautifulSoup | Entregue |
+| [**MrScout.IA**](https://github.com/Joaovdonda/mrscout-ia) | Recomendação de jogadores por **similaridade vetorial**, focada em ligas onde a IA genérica alucina por falta de dado estruturado | Python · FastAPI · Postgres + pgvector · Docker | Em desenvolvimento |
+| **Sistema de BD com Typebot** | Fluxo de **atendimento automatizado** integrado ao Supabase | Typebot · Supabase | Entregue |
+| **Plataforma de Monitoria** | **Back-end** que gerencia as monitorias internas da universidade | Django · Django REST · SQL | Entregue |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<details>
+<summary><b>Roadmap do MrScout.IA</b> — o que já está de pé e o que falta</summary>
 
-## 🚀 Projetos em Destaque
+<br>
 
-<div align="center">
+- [x] Ambiente (API + banco) configurado e validado
+- [x] Modelagem do banco de jogadores
+- [x] Pipeline de extração e ingestão de dados
+- [x] Motor de busca por similaridade
+- [ ] Toggle de "realismo" na recomendação
+- [ ] API funcional de ponta a ponta
 
-<br/>
+</details>
 
-| Projeto | Descrição | Stack | Status |
-|---------|-----------|-------|--------|
-| [**Bagre.ai**](https://github.com/ArthurMaurity/bagreAi_analisededados) | Motor de scouting híbrido que calcula ROI e eficiência financeira de atletas via Web Scraping e múltiplas APIs | Python · FastAPI · scikit-learn · BeautifulSoup | ✅ Entregue |
-| [**MrScout.IA**](https://github.com/Joaovdonda/mrscout-ia) | Busca e recomendação de jogadores por similaridade, focada em ligas de menor visibilidade | Python · FastAPI · PostgreSQL + pgvector · Docker | 🔧 Em desenvolvimento |
-| **Sistema de BD com Typebot** | Fluxo de atendimento automatizado integrado ao Supabase | Typebot · Supabase · Automação | ✅ Entregue |
-| **Plataforma de Monitoria** | Back-end para gerenciar as monitorias internas da universidade | Django · Django REST · SQL | ✅ Entregue |
+## Stack
 
-<br/>
+<table>
+<tr><td><b>Linguagens</b></td><td>
 
-</div>
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
----
+</td></tr>
+<tr><td><b>Dados e BI</b></td><td>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat-square&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=flat-square&logoColor=white)
+![Word](https://img.shields.io/badge/Word-%232B579A.svg?style=flat-square&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=flat-square&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white)
 
-## 🛠️ Tech Stack
+</td></tr>
+<tr><td><b>Back-end e dados</b></td><td>
 
-<div align="center">
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
 
-**Linguagens**
+</td></tr>
+<tr><td><b>IA</b></td><td>
 
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=flat-square&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-%234285F4.svg?style=flat-square&logo=google&logoColor=white)
 
-<br/>
+</td></tr>
+<tr><td><b>Front-end e ferramentas</b></td><td>
 
-**Análise de Dados & BI**
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-%239135FF.svg?style=flat-square&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?style=flat-square&logoColor=white)
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logoColor=black)](https://powerbi.microsoft.com/)
-[![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
-[![Word](https://img.shields.io/badge/Word-%232B579A.svg?style=for-the-badge&logoColor=white)](https://www.microsoft.com/microsoft-365/word)
-[![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=for-the-badge&logoColor=white)](https://www.microsoft.com/microsoft-365/powerpoint)
-[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+</td></tr>
+</table>
 
-<br/>
-
-**Back-end & Banco de Dados**
-
-[![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
-[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
-<br/>
-
-**IA & Automação**
-
-[![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logoColor=white)](https://claude.ai/)
-[![Gemini](https://img.shields.io/badge/Gemini-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
-[![Typebot](https://img.shields.io/badge/Typebot-%230042DA.svg?style=for-the-badge&logoColor=white)](https://typebot.io/)
-
-<br/>
-
-**Front-end & Ferramentas**
-
-[![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-%239135FF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
-[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23161b22.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?style=for-the-badge&logoColor=white)](https://code.visualstudio.com/)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Stats
+## Atividade
 
 <div align="center">
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=joaovdonda&theme=github-dark&background=0d1117&border=30363d&ring=00C6AB&fire=00C6AB&currStreakLabel=00C6AB&sideLabels=a0a09a&dates=5a5a54" />
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🐍 Contribuições
-
-<div align="center">
+<img src="https://streak-stats.demolab.com?user=joaovdonda&theme=github-dark&background=0d1117&border=30363d&ring=0891B2&fire=0891B2&currStreakLabel=0891B2&sideLabels=8b949e&dates=6e7681&hide_border=true" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaovdonda/joaovdonda/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joaovdonda/joaovdonda/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Joaovdonda/joaovdonda/output/github-snake-dark.svg" />
+  <img alt="Contribuições" src="https://raw.githubusercontent.com/Joaovdonda/joaovdonda/output/github-snake-dark.svg" width="100%" />
 </picture>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏗️ Em construção
-
-```
-⚽ MrScout.IA
- ├── 🧠 Busca por similaridade para montagem de elenco
- ├── 🗃️ Base estruturada de jogadores (Postgres + pgvector)
- ├── 🔍 Foco em ligas onde a IA genérica alucina
- ├── ⚡ API de ponta a ponta com FastAPI
- └── 🐳 Ambiente containerizado com Docker
-```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
-
-**"Dado bruto não decide nada. Análise decide."**
-
-[![LinkedIn](https://img.shields.io/badge/Vamos%20conversar-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vitor-rodrigues-donda/)
 
 </div>
