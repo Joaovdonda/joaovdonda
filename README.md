@@ -21,7 +21,7 @@ perfil = {
     "local":    "Rio de Janeiro, Brasil",
     "faz":      ["análise de dados", "BI", "web scraping", "back-end de dados"],
     "stack":    ["Python", "SQL", "Power BI", "Java"],
-    "estudando": "motores de busca por similaridade e embeddings",
+    "estudando": "busca por similaridade e embeddings aplicados a scouting",
     "contato":  "dondajoao@gmail.com",
 }
 ```
@@ -31,7 +31,7 @@ perfil = {
 | Projeto | O que resolve | Stack | Status |
 |---|---|---|---|
 | [**Bagre.ai**](https://github.com/ArthurMaurity/bagreAi_analisededados) | Scouting de futebol que calcula **ROI e eficiência financeira de atletas**, cruzando Web Scraping com múltiplas APIs | Python · FastAPI · scikit-learn · BeautifulSoup | Entregue |
-| [**MrScout.IA**](https://github.com/Joaovdonda/mrscout-ia) | Recomendação de jogadores por **similaridade vetorial**, focada em ligas onde a IA genérica alucina por falta de dado estruturado | Python · FastAPI · Postgres + pgvector · Docker | Em desenvolvimento |
+| [**MrScout.IA**](https://github.com/Joaovdonda/mrscout-ia) | Recomendação de jogadores para **montagem de elenco no EA FC 26**, por similaridade vetorial — focada nas ligas de menor visibilidade, onde a IA genérica alucina por falta de dado estruturado | Python · FastAPI · Postgres + pgvector · Docker | Em desenvolvimento |
 | **Sistema de BD com Typebot** | Fluxo de **atendimento automatizado** integrado ao Supabase | Typebot · Supabase | Entregue |
 | **Plataforma de Monitoria** | **Back-end** que gerencia as monitorias internas da universidade | Django · Django REST · SQL | Entregue |
 
@@ -39,6 +39,8 @@ perfil = {
 <summary><b>Roadmap do MrScout.IA</b> — o que já está de pé e o que falta</summary>
 
 <br>
+
+A base de jogadores sai da própria base de dados do **EA FC 26**, que não tem API pública: a extração roda fora do repositório e gera um snapshot em CSV, que alimenta o banco vetorial.
 
 - [x] Ambiente (API + banco) configurado e validado
 - [x] Modelagem do banco de jogadores
