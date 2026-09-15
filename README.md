@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vitor-rodrigues-donda/)
 [![Email](https://img.shields.io/badge/dondajoao@gmail.com-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:dondajoao@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=joaovdonda&color=0891B2&style=flat-square&label=visitas)
 
 </div>
 
